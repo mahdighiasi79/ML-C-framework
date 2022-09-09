@@ -1,0 +1,3 @@
+G:/computer/AI/C framework/cmake-build-debug/CMakeFiles/C_code.dir
+G:/computer/AI/C framework/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/computer/AI/C framework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
