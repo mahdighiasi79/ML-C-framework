@@ -101,7 +101,9 @@
 			[
 				1,
 				2,
-				3
+				3,
+				4,
+				5
 			]
 		}
 	],
@@ -126,6 +128,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "DNN.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Loss_functions.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Optimizers.h",
 			"sourceGroupIndex" : 1
 		}
 	],
